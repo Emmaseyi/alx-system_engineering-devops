@@ -1,1 +1,1 @@
-Display current directory
+Creating a script
