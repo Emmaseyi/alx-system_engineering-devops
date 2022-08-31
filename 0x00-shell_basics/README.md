@@ -1,1 +1,1 @@
-Display content lists
+Take me home
