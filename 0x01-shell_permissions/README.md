@@ -1,1 +1,1 @@
-Everyone is permitted
+James Bond
