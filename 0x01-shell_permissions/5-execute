@@ -1,1 +1,2 @@
-add execute permission
+#!/bin/bash
+chmod 700 hello
