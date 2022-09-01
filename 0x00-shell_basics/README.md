@@ -1,1 +1,1 @@
-Create a script that copies a html files
+Create a script that moves all  files
