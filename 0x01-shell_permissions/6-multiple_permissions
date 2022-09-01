@@ -1,1 +1,2 @@
-Add permission to all
+#!/bin/bash
+chmod -x hello
