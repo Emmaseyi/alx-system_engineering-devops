@@ -1,1 +1,1 @@
-Create a magic file school.mgc that can be used with the command file
+Create a magic file that can be used with the command file
