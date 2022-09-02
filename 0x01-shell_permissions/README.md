@@ -1,1 +1,1 @@
-John
+Mirror permissions
