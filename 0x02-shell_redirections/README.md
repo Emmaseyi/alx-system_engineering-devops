@@ -1,1 +1,1 @@
-displaying third line
+Displaying all lines in a file
