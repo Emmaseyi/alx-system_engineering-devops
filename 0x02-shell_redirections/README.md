@@ -1,1 +1,1 @@
-Display last 10 lines
+Display fist 10 lines
