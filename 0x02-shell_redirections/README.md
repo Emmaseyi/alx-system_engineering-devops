@@ -1,1 +1,1 @@
-Display fist 10 lines
+Display the Thrid line
